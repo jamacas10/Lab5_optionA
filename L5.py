@@ -12,7 +12,7 @@ class Heap:
         self.heap_array.append(k)
         self.sort_list()
 
-    #The extract min function pops the
+    #The extract min function takes the
     #first element in the heap, and
     #replaces it with the last element in
     #the heap.
